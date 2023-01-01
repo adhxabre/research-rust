@@ -1,0 +1,5 @@
+[package]
+name = "hyper-api"
+version = "0.1.0-initial"
+edition = "2021"
+authors = ["Abel Dustin <abeldustin06@gmail.com>"]
