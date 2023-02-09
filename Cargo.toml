@@ -3,3 +3,8 @@ name = "hyper-api"
 version = "0.1.0-initial"
 edition = "2021"
 authors = ["Abel Dustin <abeldustin06@gmail.com>"]
+
+[dependencies]
+hyper = { version = "1.0.0-rc.2", features = ["full"] }
+tokio = { version = "1", features = ["full"] }
+http-body-util = "0.1.0-rc.2" 
